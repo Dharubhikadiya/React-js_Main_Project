@@ -1,0 +1,586 @@
+{
+  "category": [
+    {
+      "category_name": "Clothing"
+    },
+    {
+      "category_name": "Bags"
+    },
+    {
+      "category_name": "Shoes"
+    },
+    {
+      "category_name": "HeadPhones"
+    },
+    {
+      "category_name": "Mobile Tablets"
+    },
+    {
+      "category_name": "Smart Watch"
+    },
+    {
+      "category_name": "Bluetooth"
+    },
+    {
+      "category_name": "Beauty of Skin"
+    }
+  ],
+  "products": [
+    {
+      "name": "Baby Cotton Bodysuits",
+      "price": "500",
+      "qty": 1,
+      "image": "https://i.ibb.co/2Yf7bqs/clothing-15.png",
+      "category": "Clothing",
+      "status": "instock",
+      "id": 4,
+      "marketstatus": "best"
+    },
+    {
+      "name": "Traveling Bag",
+      "price": "1140",
+      "qty": 1,
+      "image": "https://i.ibb.co/zrdMnPd/bag-5.png",
+      "category": "Bags",
+      "status": "instock",
+      "id": 5,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Tall Easy Tote-2",
+      "price": "1100",
+      "qty": 1,
+      "image": "https://i.ibb.co/GvXjssF/bag-1.png",
+      "category": "Bags",
+      "status": "instock",
+      "id": 6,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Traveling Bag",
+      "price": "1140",
+      "qty": 1,
+      "image": "https://i.ibb.co/BcDb57T/bag-8.png",
+      "category": "Bags",
+      "status": "instock",
+      "id": 7,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Traveling Bag",
+      "price": "1140",
+      "qty": 1,
+      "image": "https://i.ibb.co/9gY1SrG/bag-7.png",
+      "category": "Bags",
+      "status": "instock",
+      "id": 8,
+      "marketstatus": "upcomming"
+    },
+    {
+      "name": "Nike Retro GTS-2",
+      "price": "2370.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/xgPThxC/shoes-1.png",
+      "category": "Shoes",
+      "status": "instock",
+      "id": 9,
+      "marketstatus": "upcomming"
+    },
+    {
+      "name": "Jefferson Star Wars™",
+      "price": "2510.10",
+      "qty": 1,
+      "image": "https://i.ibb.co/SQY6zdb/shoes-5.png",
+      "category": "Shoes",
+      "status": "instock",
+      "id": 10,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Nike Retro GTS-2",
+      "price": "2370.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/ZxHVh8L/shoes-4.png",
+      "category": "Shoes",
+      "status": "instock",
+      "id": 11,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Headphone with Mic",
+      "price": "1100",
+      "qty": 1,
+      "image": "https://i.ibb.co/5FPhGtq/headphone-8.png",
+      "category": "HeadPhones",
+      "status": "instock",
+      "id": 13,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Headphones Wireless",
+      "price": "1030.20",
+      "qty": 1,
+      "image": "https://i.ibb.co/WVdTgR8/headphone-1.png",
+      "category": "HeadPhones",
+      "status": "instock",
+      "id": 14,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Gaming Headphone",
+      "price": "1230.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/WpkH1vq/headphone-6.png",
+      "category": "HeadPhones",
+      "status": "instock",
+      "id": 15,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Headphone with Mic",
+      "price": "1100",
+      "qty": 1,
+      "image": "https://i.ibb.co/vHP1TQf/headphone-9.png",
+      "category": "HeadPhones",
+      "status": "instock",
+      "id": 16,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Galaxy Android Tablet",
+      "price": "2880",
+      "qty": 1,
+      "image": "https://i.ibb.co/jvGv6qf/mobile-1.png",
+      "category": "Mobile Tablets",
+      "status": "instock",
+      "id": 17,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "price": "1019.15",
+      "qty": 1,
+      "image": "https://i.ibb.co/3WMPkkf/mobile-5.png",
+      "category": "Mobile Tablets",
+      "status": "instock",
+      "id": 18,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Apple iPad Air",
+      "price": "9490.05",
+      "qty": 1,
+      "image": "https://i.ibb.co/kxGMcrw/ipad-1.png",
+      "category": "Mobile Tablets",
+      "status": "instock",
+      "id": 19,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Galaxy Android Tablet",
+      "price": "2880",
+      "qty": 1,
+      "image": "https://i.ibb.co/NpWtdts/mobile-4.png",
+      "category": "Mobile Tablets",
+      "status": "instock",
+      "id": 20,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Apple Watch Sport Band",
+      "price": "4260.55",
+      "qty": 1,
+      "image": "https://i.ibb.co/yRRLCc5/watch-1.png",
+      "category": "Smart Watch",
+      "status": "instock",
+      "id": 21,
+      "marketstatus": "trending"
+    },
+    {
+      "name": "Sony Smart Watch",
+      "price": "1900",
+      "qty": 1,
+      "image": "https://i.ibb.co/j4sDV3Q/watch-5.png",
+      "category": "Smart Watch",
+      "status": "instock",
+      "id": 22,
+      "marketstatus": "latest"
+    },
+    {
+      "name": "Sony Lady Fitness Watch",
+      "price": "1450.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/fMhtt2T/watch-9.png",
+      "category": "Smart Watch",
+      "status": "instock",
+      "id": 23,
+      "marketstatus": "latest"
+    },
+    {
+      "name": "Apple Watch Sport",
+      "price": "4260.55",
+      "qty": 1,
+      "image": "https://i.ibb.co/8rfG5wZ/watch-4.png",
+      "category": "Smart Watch",
+      "status": "instock",
+      "id": 24,
+      "marketstatus": "latest"
+    },
+    {
+      "name": "Lenovo Wireless Bluetooth",
+      "price": "660.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/RYST3Ym/blutooth-4.png",
+      "category": "Bluetooth",
+      "status": "instock",
+      "id": 25,
+      "marketstatus": "latest"
+    },
+    {
+      "name": "Wireless Bluetooth",
+      "price": "660.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/L12vDxf/blutooth-6.png",
+      "category": "Bluetooth",
+      "status": "instock",
+      "id": 26,
+      "marketstatus": "latest"
+    },
+    {
+      "name": "Lenovo Sports Bluetooth",
+      "price": "670.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/fvXHr2Y/blutooth-1.png",
+      "category": "Bluetooth",
+      "status": "instock",
+      "id": 27,
+      "marketstatus": "latest"
+    },
+    {
+      "name": "Sports Bluetooth",
+      "price": "660.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/D920WSP/blutooth-2.png",
+      "category": "Bluetooth",
+      "status": "instock",
+      "id": 28,
+      "marketstatus": "best"
+    },
+    {
+      "name": "Wet Dewy Cream Beige",
+      "price": "850.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/p06Mk0H/makeup-1.png",
+      "category": "Beauty of Skin",
+      "status": "instock",
+      "id": 29,
+      "marketstatus": "best"
+    },
+    {
+      "name": "INIKA Mineral Sunkissed",
+      "price": "800.75",
+      "qty": 1,
+      "image": "https://i.ibb.co/zJ9SWcP/powder-4.png",
+      "category": "Beauty of Skin",
+      "status": "instock",
+      "id": 30,
+      "marketstatus": "best"
+    },
+    {
+      "name": "Brand Cosmetic Product",
+      "price": "670.90",
+      "qty": 1,
+      "image": "https://i.ibb.co/vmJzZk4/cosmetics-1.png",
+      "category": "Beauty of Skin",
+      "status": "instock",
+      "id": 31,
+      "marketstatus": "best"
+    },
+    {
+      "name": "Innisfree Face Wash",
+      "price": "650.96",
+      "qty": 1,
+      "image": "https://i.ibb.co/T04BRtd/cream-1.png",
+      "category": "Beauty of Skin",
+      "status": "instock",
+      "id": 32,
+      "marketstatus": "best"
+    },
+    {
+      "name": "Mielle Rosemary Mint Scalp",
+      "price": "620",
+      "qty": "1",
+      "image": "https://i.ibb.co/bdKTWYy/skin-1.png",
+      "category": "Beauty of Skin",
+      "marketstatus": "best",
+      "status": "instock",
+      "id": 33
+    },
+    {
+      "name": "Whitetails Women's Dress",
+      "price": "760.00",
+      "qty": "1",
+      "desc": "",
+      "image": "https://i.ibb.co/1JqwRnb/clothing-3.png",
+      "category": "Clothing",
+      "marketstatus": "latest",
+      "status": "instock",
+      "id": 34
+    },
+    {
+      "name": "Whitetails Women's Dress",
+      "price": "660.50",
+      "qty": "1",
+      "desc": "",
+      "image": "https://i.ibb.co/tZFbTWQ/clothing-2.png",
+      "category": "Clothing",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 35
+    },
+    {
+      "name": "Milumia Blouse",
+      "price": "660",
+      "qty": "1",
+      "desc": "",
+      "image": "https://i.ibb.co/DKJr0w4/clothing-9.png",
+      "category": "Clothing",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 36
+    },
+    {
+      "name": "Boys Graphic T-Shirt",
+      "price": "650",
+      "qty": "1",
+      "desc": "",
+      "image": "https://i.ibb.co/JqDrC9g/clothing-6.png",
+      "category": "Clothing",
+      "marketstatus": "latest",
+      "status": "instock",
+      "id": 37
+    },
+    {
+      "name": "Traveling Bag",
+      "price": "1140",
+      "qty": "1",
+      "desc": "",
+      "image": "https://i.ibb.co/ts8dj9z/bag-6.png",
+      "category": "Bags",
+      "marketstatus": "latest",
+      "status": "instock",
+      "id": 38
+    },
+    {
+      "name": "Nike Retro GTS-2",
+      "price": "2370",
+      "qty": "1",
+      "desc": "",
+      "image": "https://i.ibb.co/YXbFH8P/shoes-2.png",
+      "category": "Shoes",
+      "marketstatus": "best",
+      "status": "instock",
+      "id": 39
+    },
+    {
+      "name": "Jefferson Star Wars™",
+      "price": "2510",
+      "qty": "1",
+      "desc": "",
+      "image": "https://i.ibb.co/VWcTW2t/shoes-6.png",
+      "category": "Shoes",
+      "marketstatus": "upcomming",
+      "status": "instock",
+      "id": 40
+    },
+    {
+      "name": "Jefferson Star Wars™",
+      "price": "2510",
+      "qty": "1",
+      "desc": "",
+      "image": "https://i.ibb.co/PThjLJh/shoes-8.png",
+      "category": "Shoes",
+      "marketstatus": "best",
+      "status": "instock",
+      "id": 41
+    },
+    {
+      "name": "Headphones Wireless.",
+      "price": "1030",
+      "qty": "1",
+      "desc": "",
+      "image": "https://i.ibb.co/SrPq3r0/headphone-4.png",
+      "category": "HeadPhones",
+      "marketstatus": "trending",
+      "status": "instock",
+      "id": 42
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "marketstatus": [
+    {
+      "marketstatus": "latest"
+    },
+    {
+      "marketstatus": "best"
+    },
+    {
+      "marketstatus": "trending"
+    },
+    {
+      "marketstatus": "upcomming"
+    }
+  ],
+  "carts": [
+    {
+      "name": "Nike Retro GTS-2",
+      "price": "237.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/xgPThxC/shoes-1.png",
+      "category": "Shoes",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "Lenovo Wireless Bluetooth",
+      "price": "66.50",
+      "qty": 1,
+      "image": "https://i.ibb.co/RYST3Ym/blutooth-4.png",
+      "category": "Bluetooth",
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "Brand Cosmetic Product",
+      "price": "67.90",
+      "qty": 1,
+      "image": "https://i.ibb.co/vmJzZk4/cosmetics-1.png",
+      "category": "Beauty of Skin",
+      "userId": 3,
+      "id": 5
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "price": "1019.15",
+      "qty": 10,
+      "image": "https://i.ibb.co/3WMPkkf/mobile-5.png",
+      "category": "Mobile Tablets",
+      "productId": "18",
+      "userId": 6,
+      "id": 13
+    },
+    {
+      "name": "Sony Smart Watch",
+      "price": "1900",
+      "qty": 7,
+      "image": "https://i.ibb.co/j4sDV3Q/watch-5.png",
+      "category": "Smart Watch",
+      "productId": "22",
+      "userId": 6,
+      "id": 14
+    },
+    {
+      "name": "Baby Cotton Bodysuits",
+      "price": "500",
+      "qty": 7,
+      "image": "https://i.ibb.co/2Yf7bqs/clothing-15.png",
+      "category": "Clothing",
+      "productId": "4",
+      "userId": 6,
+      "id": 15
+    },
+    {
+      "name": "Tall Easy Tote-2",
+      "price": "1100",
+      "qty": 1,
+      "image": "https://i.ibb.co/GvXjssF/bag-1.png",
+      "category": "Bags",
+      "productId": "6",
+      "userId": 9,
+      "id": 18
+    },
+    {
+      "name": "Traveling Bag",
+      "price": "1140",
+      "qty": 1,
+      "image": "https://i.ibb.co/9gY1SrG/bag-7.png",
+      "category": "Bags",
+      "productId": "8",
+      "userId": 1,
+      "id": 19
+    }
+  ],
+  "admin": [
+    {
+      "name": "dharmi",
+      "email": "dharmi@gmail.com",
+      "password": "12345",
+      "role": "admin",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "a",
+      "email": "a@gmail.com",
+      "password": "789",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "name": "b",
+      "email": "b@gmail.com",
+      "password": "12345",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "name": "c",
+      "email": "c@gmail.com",
+      "password": "12345",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "name": "d",
+      "email": "d@gmail.com",
+      "password": "12345",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "name": "e",
+      "email": "e@gmail.com",
+      "password": "12345",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "name": "f",
+      "email": "f@gmail.com",
+      "password": "12345",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "name": "a",
+      "email": "a@gmail.com",
+      "password": "123456789",
+      "id": 7
+    },
+    {
+      "name": "e",
+      "email": "e",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "name": "p",
+      "email": "p",
+      "password": "1234",
+      "id": 9
+    }
+  ]
+}
